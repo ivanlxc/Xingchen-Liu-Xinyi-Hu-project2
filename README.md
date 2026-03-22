@@ -6,7 +6,7 @@ A single-player Sudoku game built with React for CS5610 Project 2. We took the s
 
 - **GitHub Repo**: https://github.com/ivanlxc/Xingchen-Liu-Xinyi-Hu-project2.git
 - **Render App**: https://xingchen-liu-xinyi-hu-project2.onrender.com/
-- **Video Walkthrough**: [placeholder-video-link]
+- **Video Walkthrough**: https://youtu.be/bEQzROQmLh0
 
 
 ## Pages
@@ -63,4 +63,3 @@ Key code: `src/utils/sudokuGenerator.js` - see `findHint()` function (lines 124-
 
 - Xingchen Liu (Github: ivanlxc)
 - Xinyi Hu (Github: 123321-xy)
-
